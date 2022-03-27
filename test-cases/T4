@@ -1,0 +1,9 @@
+program good2::
+    var A, B, C, D: int;
+    var We,E,F,G: bool;
+{
+   A := 5 + 3; 
+   write A;
+   write tt;
+   write 5 * 3 - 2 / 16;
+}

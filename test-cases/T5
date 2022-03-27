@@ -1,0 +1,10 @@
+program good2 ::
+var A :int;
+{
+    read A;
+    while (A<10)
+    do{
+      A := A + 5;
+    }
+    endwh;
+}

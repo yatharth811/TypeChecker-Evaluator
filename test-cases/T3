@@ -1,0 +1,10 @@
+program good2::
+    var A, B, C, D: int;
+    var We,E,F,G: bool;
+{
+    E := 5 > ff;
+    A := A*B+C/D%A;
+    B := A-B-C-D;
+    C := A*(B-C)+~D;
+    D := 1 + 4 - ~ ~D;
+}
